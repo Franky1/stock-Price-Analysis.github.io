@@ -11,6 +11,6 @@ scipy==1.10.0
 seaborn==0.12.2
 statsmodels==0.13.5
 streamlit==1.16.0
-tensorflow==2.11.0
+tensorflow==2.10.0
 streamlit-option-menu==0.3.2
 yfinance==0.2.3
